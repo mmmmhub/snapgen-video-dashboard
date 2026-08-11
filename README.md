@@ -2,6 +2,8 @@
 
 GitHub Actions and GitHub Pages dashboard for generating SnapGen videos from prompts.
 
+Public dashboard: https://mmmmhub.github.io/snapgen-video-dashboard/
+
 ## Architecture
 
 - `script.js` logs into SnapGen, submits a prompt, waits for the job, and writes `video-result.json`.
